@@ -3,7 +3,7 @@
 Check out [my LinkedIn](https://www.linkedin.com/in/andrea-la-grotteria) to connect!
 
 #### 🎓 Education
-- **Visiting Student - MIT**
+- **Visiting Student - MIT**  
   Master's Thesis at [MIT Senseable City Lab](https://senseable.mit.edu/), focusing on big data analysis and machine learning research in mobility and urban planning.
 - **MSc Computer Science - EPFL** (École Polytechnique Fédérale de Lausanne)  
   Focusing on software systems and data science.  
