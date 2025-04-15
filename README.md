@@ -3,6 +3,8 @@
 Check out [my LinkedIn](https://www.linkedin.com/in/andrea-la-grotteria) to connect!
 
 #### 🎓 Education
+- **Visiting Student - MIT**
+  Master's Thesis at [MIT Senseable City Lab](https://senseable.mit.edu/), focusing on big data analysis and machine learning research in mobility and urban planning.
 - **MSc Computer Science - EPFL** (École Polytechnique Fédérale de Lausanne)  
   Focusing on software systems and data science.  
   - Student Teaching Assistant for courses in Computer Security, Operative Systems, and Computer Systems.
@@ -11,7 +13,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/andrea-la-grotteria) to conn
   - Student Teaching Assistant in Mathematical Analysis I and Computer Sciences.
 
 #### 👨‍💻 Experience
-- **Research Intern** at Oracle Labs Zurich (Aug 2024 – Present)  
+- **Research Intern** at Oracle Labs Zurich (Aug 2024 – Febraury 2025)  
   Working on automated guide generation and testing for the Graal Development Kit, contributing to Micronaut Framework development.
 - **Student Researcher** at EPFL Scalable Computing Systems Laboratory (Feb 2024 – Jun 2024)  
   Focused on Adversarial Attacks in Decentralized Learning.
